@@ -1,0 +1,2 @@
+k = 4
+plaintext: Love means never having to say you are sorry
